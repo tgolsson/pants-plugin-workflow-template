@@ -7,13 +7,13 @@
   color: C1F88C
 
 - name: "t: tools"
-  description: This issue or pull request already exists
+  description: Tools or development setup
   color: 377FA1
 
 - name: "t: ci"
-  description: This issue or pull request already exists
+  description: Affects CI or CD functionality
   color: C6D54A
 
 - name: "t: feature"
-  description: This issue or pull request already exists
+  description: A new feature or functionality
   color: A5D99C
